@@ -1,3 +1,4 @@
+
 # Power BI Super Store Dashboard
 
 This repository contains a Power BI dashboard built for analyzing the **Super Store dataset**, providing insights into business performance through dynamic visualizations.
@@ -28,6 +29,19 @@ The dataset includes:
 
 The dashboard is designed with an intuitive interface, enabling users to interact with data through slicers, drill-downs, and cross-filtering, ensuring a seamless and insightful user experience.
 
-## Conclusion
+## Dashboarrd
 
-This Power BI dashboard empowers business leaders to make informed decisions by offering real-time, interactive insights into the Super Store’s performance.
+**Sales and Orders Overview**
+![image](https://github.com/user-attachments/assets/bcd8ec52-e5a9-4ce2-930b-4af1311f6f2a)
+
+
+**Return Analysis**
+![image](https://github.com/user-attachments/assets/387df2a5-79d6-4532-8879-d87f71baaf2d)
+
+
+**Customer Insights and Profitability**
+![image](https://github.com/user-attachments/assets/3460134b-5bf3-48a8-a132-0bcb8d4f6c1e)
+
+
+
+
