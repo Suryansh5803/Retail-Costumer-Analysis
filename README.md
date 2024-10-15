@@ -33,7 +33,8 @@ The dashboard is designed with an intuitive interface, enabling users to interac
 
 *Sales and Orders Overview*
 
-![image](https://github.com/user-attachments/assets/bcd8ec52-e5a9-4ce2-930b-4af1311f6f2a)
+![image](https://github.com/user-attachments/assets/92a4358c-e4a3-47b7-82cd-b6985c1cb305)
+
 
 
 *Return Analysis*
