@@ -31,16 +31,20 @@ The dashboard is designed with an intuitive interface, enabling users to interac
 
 ## Dashboarrd
 
-**Sales and Orders Overview**
+*Sales and Orders Overview*
+
 ![image](https://github.com/user-attachments/assets/bcd8ec52-e5a9-4ce2-930b-4af1311f6f2a)
 
 
-**Return Analysis**
-![image](https://github.com/user-attachments/assets/387df2a5-79d6-4532-8879-d87f71baaf2d)
+*Return Analysis*
+
+![image](https://github.com/user-attachments/assets/d12f5cf7-c451-4f86-94ad-9c30c67c8e06)
 
 
-**Customer Insights and Profitability**
-![image](https://github.com/user-attachments/assets/3460134b-5bf3-48a8-a132-0bcb8d4f6c1e)
+
+*Customer Insights and Profitability*
+
+![image](https://github.com/user-attachments/assets/5f56561a-e5a5-449e-9d74-a28cc338bdbc)
 
 
 
